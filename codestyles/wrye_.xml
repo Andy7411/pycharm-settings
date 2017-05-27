@@ -1,0 +1,21 @@
+<code_scheme name="wrye;">
+  <option name="RIGHT_MARGIN" value="79" />
+  <Python>
+    <option name="SPACE_AFTER_PY_COLON" value="false" />
+    <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
+    <option name="NEW_LINE_AFTER_COLON_MULTI_CLAUSE" value="false" />
+    <option name="SPACE_AFTER_NUMBER_SIGN" value="false" />
+    <option name="SPACE_BEFORE_NUMBER_SIGN" value="false" />
+  </Python>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="Python">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
+    <option name="BLANK_LINES_AFTER_IMPORTS" value="0" />
+    <option name="SPACE_AROUND_SHIFT_OPERATORS" value="false" />
+    <option name="SPACE_AFTER_COMMA" value="false" />
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
+</code_scheme>

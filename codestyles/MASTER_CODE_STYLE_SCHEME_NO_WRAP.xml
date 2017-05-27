@@ -1,0 +1,18 @@
+<code_scheme name="MASTER_CODE_STYLE_SCHEME_NO_WRAP">
+  <option name="RIGHT_MARGIN" value="79" />
+  <Python>
+    <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
+    <option name="SPACE_AFTER_NUMBER_SIGN" value="false" />
+    <option name="SPACE_BEFORE_NUMBER_SIGN" value="false" />
+  </Python>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="140" />
+  </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
+  </codeStyleSettings>
+</code_scheme>

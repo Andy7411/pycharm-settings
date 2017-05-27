@@ -1,0 +1,31 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+      <unmute-on-stop>true</unmute-on-stop>
+    </general>
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="python">
+        <configuration>
+          <option name="librariesFilterEnabled" value="true" />
+          <option name="steppingFilters">
+            <list>
+              <PySteppingFilter>
+                <option name="filter" value="bolt" />
+              </PySteppingFilter>
+            </list>
+          </option>
+          <option name="steppingFiltersEnabled" value="true" />
+          <option name="watchReturnValues" value="true" />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>
