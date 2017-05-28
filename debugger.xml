@@ -14,7 +14,6 @@
       </debugger>
       <debugger id="python">
         <configuration>
-          <option name="librariesFilterEnabled" value="true" />
           <option name="steppingFilters">
             <list>
               <PySteppingFilter>
