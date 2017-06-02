@@ -1,0 +1,20 @@
+<scheme name="Mytheme" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-05-16T20:54:50</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2017.1.2.0.0</property>
+    <property name="modified">2017-05-16T20:56:39</property>
+    <property name="originalScheme">Darcula copy</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+</scheme>
